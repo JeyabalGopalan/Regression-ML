@@ -1,2 +1,2 @@
-# Saravana Bhavan's Linear Path to Unlimited Meals 
-# Crunching Apple Sales with Extra Discounts
+### Saravana Bhavan's Dynamics Dosa Sale using Linear and Multi Regression
+### Crunching Apple Sales with Extra Discounts using Polynomial
